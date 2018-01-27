@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "ebbrsm:blocks/steel_block"
+   }
+}

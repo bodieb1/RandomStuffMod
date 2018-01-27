@@ -7,5 +7,8 @@ import net.minecraft.item.Item;
 
 public class ModItems {
 	public static List <Item> ITEMS = new ArrayList<Item>();
+	//Items
 	public static final Item RUBY = new ItemBase("ruby");
+	public static final Item OBSIDIAN_INGOT = new ItemBase("obsidian_ingot");
+	public static final Item STEEL_INGOT = new ItemBase("steel_ingot");
 }

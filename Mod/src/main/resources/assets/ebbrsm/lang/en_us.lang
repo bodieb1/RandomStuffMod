@@ -1,3 +1,7 @@
 //Items
 item.ruby.name=Ruby
+item.obsidian_ingot.name=Obsidian Ingot
+item.steel_ingot.name=Steel Ingot
 //Blocks
+tile.ruby_block.name=Block of Ruby
+tile.ruby_block.name=Block of Steel
