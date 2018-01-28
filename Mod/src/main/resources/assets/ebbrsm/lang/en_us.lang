@@ -2,6 +2,12 @@
 item.ruby.name=Ruby
 item.obsidian_ingot.name=Obsidian Ingot
 item.steel_ingot.name=Steel Ingot
+item.one_dollar.name=One Dollar Bill
+item.five_dollars.name=Five Dollar Bill
+item.ten_dollars.name=Ten Dollar Bill
+item.twenty_dollars.name=Twenty Dollar Bill
+item.fifty_dollars.name=Fifty Dollar Bill
+item.one_hundred_dollars.name=One Hundred Dollar Bill
 //Blocks
 tile.ruby_block.name=Block of Ruby
-tile.ruby_block.name=Block of Steel
+tile.steel_block.name=Block of Steel

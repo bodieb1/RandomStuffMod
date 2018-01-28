@@ -11,4 +11,10 @@ public class ModItems {
 	public static final Item RUBY = new ItemBase("ruby");
 	public static final Item OBSIDIAN_INGOT = new ItemBase("obsidian_ingot");
 	public static final Item STEEL_INGOT = new ItemBase("steel_ingot");
+	public static final Item ONE_DOLLAR = new ItemBase("one_dollar");
+	public static final Item FIVE_DOLLARS= new ItemBase("five_dollars");
+	public static final Item TEN_DOLLARS = new ItemBase("ten_dollars");
+	public static final Item TWENTY_DOLLARS = new ItemBase("twenty_dollars");
+	public static final Item FIFTY_DOLLARS = new ItemBase("fifty_dollars");
+	public static final Item ONE_HUNDRED_DOLLARS = new ItemBase("one_hundred_dollars");
 }
