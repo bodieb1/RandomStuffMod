@@ -3,6 +3,8 @@ package com.EBodieB.RandomStuffMod.init;
 import java.util.ArrayList;
 import java.util.List;
 import com.EBodieB.RandomStuffMod.items.ItemBase;
+
+import net.minecraft.crash.CrashReport;
 import net.minecraft.item.Item;
 
 public class ModItems {

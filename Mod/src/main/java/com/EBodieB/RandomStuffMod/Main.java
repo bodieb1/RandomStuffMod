@@ -2,6 +2,8 @@ package com.EBodieB.RandomStuffMod;
 
 import com.EBodieB.RandomStuffMod.proxy.CommonProxy;
 import com.EBodieB.RandomStuffMod.util.Reference;
+
+import net.minecraft.crash.CrashReport;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod.Instance;

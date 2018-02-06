@@ -3,6 +3,7 @@ package com.EBodieB.RandomStuffMod.init;
 import java.util.ArrayList;
 import java.util.List;
 import com.EBodieB.RandomStuffMod.blocks.BlockBase;
+import com.EBodieB.RandomStuffMod.blocks.BlockCacti;
 import com.EBodieB.RandomStuffMod.items.ItemBase;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -13,4 +14,5 @@ public class ModBlocks {
 	//Blocks
 	public static final Block RUBY_BLOCK = new BlockBase("ruby_block", Material.IRON);
 	public static final Block STEEL_BLOCK = new BlockBase("steel_block", Material.IRON);
+	public static final Block CACTUS_TEST = new BlockCacti("cactus_test");
 }

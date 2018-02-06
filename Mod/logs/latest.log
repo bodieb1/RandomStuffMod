@@ -1,0 +1,47 @@
+[20:30:15] [main/INFO]: Setting user: Player652
+[20:30:24] [main/INFO]: LWJGL Version: 2.9.4
+[20:30:34] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Random Stuff Mod
+[20:31:17] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:31:18] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[20:31:18] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:31:19] [Thread-5/INFO]: OpenAL initialized.
+[20:31:19] [Sound Library Loader/INFO]: Sound engine started
+[20:31:29] [main/WARN]: Texture ebbrsm:textures/items/five_dollars.png with size 225x225 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:31:29] [main/WARN]: Texture ebbrsm:textures/items/ten_dollars.png with size 225x225 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:31:29] [main/WARN]: Texture ebbrsm:textures/items/one_dollar.png with size 225x225 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:31:29] [main/WARN]: Texture ebbrsm:textures/items/twenty_dollars.png with size 225x225 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:31:30] [main/WARN]: Texture ebbrsm:textures/items/fifty_dollars.png with size 225x225 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:31:30] [main/WARN]: Texture ebbrsm:textures/items/one_hundred_dollars.png with size 225x225 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:31:30] [main/WARN]: Texture ebbrsm:textures/items/obsidian_ingot.png with size 175x175 will have visual artifacts at mip level 4, it can only support level 0. Please report to the mod author that the texture should be some multiple of 16x16.
+[20:31:30] [main/INFO]: Created: 1024x1024 textures-atlas
+[20:31:36] [main/INFO]: Narrator library for x64 successfully loaded
+[20:31:39] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[20:33:30] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[20:33:30] [Server thread/INFO]: Generating keypair
+[20:33:33] [Server thread/INFO]: Loaded 488 advancements
+[20:33:33] [Server thread/INFO]: Preparing start region for level 0
+[20:33:34] [Server thread/INFO]: Preparing spawn area: 0%
+[20:33:35] [Server thread/INFO]: Preparing spawn area: 17%
+[20:33:36] [Server thread/INFO]: Preparing spawn area: 54%
+[20:33:38] [Server thread/INFO]: Changing view distance to 12, from 10
+[20:33:40] [Server thread/INFO]: Player652[local:E:66b7d70c] logged in with entity id 333 at (-118.5, 65.0, 256.5)
+[20:33:41] [Server thread/INFO]: Player652 joined the game
+[20:33:42] [Server thread/INFO]: Saving and pausing game...
+[20:33:43] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:33:43] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[20:33:43] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[20:33:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3054ms behind, skipping 61 tick(s)
+[20:34:07] [Server thread/INFO]: Saving and pausing game...
+[20:34:07] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:34:07] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[20:34:07] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[20:34:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6070ms behind, skipping 121 tick(s)
+[20:46:33] [main/INFO]: Stopping!
+[20:46:33] [Server thread/INFO]: Stopping server
+[20:46:33] [Server thread/INFO]: Saving players
+[20:46:33] [Server thread/INFO]: Saving worlds
+[20:46:33] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[20:46:33] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[20:46:33] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[20:46:33] [main/INFO]: SoundSystem shutting down...
+[20:46:34] [main/WARN]: Author: Paul Lamb, www.paulscode.com

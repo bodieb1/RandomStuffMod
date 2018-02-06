@@ -4,6 +4,7 @@ import com.EBodieB.RandomStuffMod.init.ModBlocks;
 import com.EBodieB.RandomStuffMod.init.ModItems;
 import com.EBodieB.RandomStuffMod.util.IHasModel;
 import net.minecraft.block.Block;
+import net.minecraft.crash.CrashReport;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
