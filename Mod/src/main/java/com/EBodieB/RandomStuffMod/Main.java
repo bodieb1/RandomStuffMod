@@ -20,17 +20,11 @@ public class Main {
 	
 	@SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.COMMON_PROXY_CLASS)
 	public static CommonProxy proxy;
-	
+
 	@EventHandler
-	public static void PreInit(FMLPreInitializationEvent event) {
-		
-	}
+	public static void PreInit(FMLPreInitializationEvent event) {}
 	@EventHandler
-	public static void init(FMLInitializationEvent event) {
-		
-	}
+	public static void init(FMLInitializationEvent event) {}
 	@EventHandler
-	public static void PostInit(FMLPostInitializationEvent event) {
-		
-	}
+	public static void PostInit(FMLPostInitializationEvent event) {}
 }
